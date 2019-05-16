@@ -15,8 +15,8 @@ Answers for each question can be found in respective folder
 * Tests may come out a little mangled because I didn't wait for one test to finish before the next one is kicked off
 
 ### Question 4:
-* Ran out of time for this one since it's mother's day
-* I do have something I grabbed as a starting point for it
+* Partially completed. Didn't have time to put into jars and implement dependency injection using them (This was my first time using maven/dependency injection and it's been a long time since I've used java)
+* Can run test of what I have by "mvn test"
 
 ### Question 5:
 * Contains _openapi.json_
